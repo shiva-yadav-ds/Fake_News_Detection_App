@@ -24,8 +24,8 @@ The dataset is stored in the **`datasets/`** folder.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/fake-news-detection.git
-cd fake-news-detection
+git clone https://github.com/shiva-yadav-ds/Fake_News_Detection_App.git
+cd Fake-News-Detection_App
 ```
 
 ### 2️⃣ Create a Virtual Environment (Optional but Recommended)
@@ -83,6 +83,8 @@ git push -u origin main
 
 ## 📸 Screenshots
 ![Fake News Detection UI](https://via.placeholder.com/800x400.png?text=Fake+News+Detection+UI)
+![image](https://github.com/user-attachments/assets/85b61a4d-d355-4f88-b83c-7cc25f45c55b)
+
 
 ---
 
