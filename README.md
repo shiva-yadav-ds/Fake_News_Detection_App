@@ -82,8 +82,9 @@ git push -u origin main
 ---
 
 ## 📸 Screenshots
-![Fake News Detection UI](https://via.placeholder.com/800x400.png?text=Fake+News+Detection+UI)
-![image](https://github.com/user-attachments/assets/85b61a4d-d355-4f88-b83c-7cc25f45c55b)
+![Fake News Detection UI](https://github.com/user-attachments/assets/a9b29ff9-4740-4e1e-9f5a-631068c9359b)
+)
+![True News Detection UI](https://github.com/user-attachments/assets/85b61a4d-d355-4f88-b83c-7cc25f45c55b)
 
 
 ---
