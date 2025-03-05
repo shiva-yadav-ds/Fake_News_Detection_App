@@ -14,15 +14,6 @@ This project is a **Fake News Detection System** built using **Python, NLP, Mach
 
 ---
 
-## 📰 Fake News Detector
-
-### 📜 Enter News Article
-Write or paste a news article:
-```
-12 killed, 30 injured in suicide attack in Pakistan
-Pakistan Military Base Attack: Two vehicles hit the wall of a military base. These vehicles were loaded with a large amount of explosives. In such a situation, as soon as the vehicle hit the wall, there was a big explosion.
-```
-
 
 ### 🔍 Verification Tools
 
@@ -124,9 +115,14 @@ git push -u origin main
 ---
 
 ## 📸 Screenshots
-![Fake News Detection UI](https://github.com/user-attachments/assets/a9b29ff9-4740-4e1e-9f5a-631068c9359b)
+![image](https://github.com/user-attachments/assets/e614b9c4-5de5-43af-9300-17432561cefd)
+![image](https://github.com/user-attachments/assets/99cbe5ca-1d3d-4654-b937-86ca3fbbdb78)
 
-![True News Detection UI](https://github.com/user-attachments/assets/85b61a4d-d355-4f88-b83c-7cc25f45c55b)
+
+![image](https://github.com/user-attachments/assets/aa9cd518-0af5-4d28-a1a2-26d5a7ebb2a1)
+![image](https://github.com/user-attachments/assets/33609e46-1362-475b-9eea-9f84954e4417)
+
+
 
 ---
 
