@@ -8,8 +8,37 @@ This project is a **Fake News Detection System** built using **Python, NLP, Mach
 - **TF-IDF Vectorization**: Converts text into numerical features for machine learning.
 - **Naïve Bayes Classifier**: A trained model to predict if news is **Fake** or **Real**.
 - **Streamlit Web App**: A user-friendly interface to input news articles and get predictions.
+- **Real-Time Fact-Checking**: Cross-verifies with 50+ trusted sources.
+- **Image Verification Capabilities**: Helps in verifying images along with news text.
+- **Wikipedia Context Lookup**: Fetches related Wikipedia information for better understanding.
 
 ---
+
+## 📰 Fake News Detector
+
+### 📜 Enter News Article
+Write or paste a news article:
+```
+12 killed, 30 injured in suicide attack in Pakistan
+Pakistan Military Base Attack: Two vehicles hit the wall of a military base. These vehicles were loaded with a large amount of explosives. In such a situation, as soon as the vehicle hit the wall, there was a big explosion.
+```
+
+
+### 🔍 Verification Tools
+
+#### 🧐 Fact-Check This Claim
+Search for: **Pakis**
+
+🔗 [Google Fact-Check Search](https://www.google.com/search?q=Pakis+fact+check)
+
+🔎 "Pakis" hoax  
+🔎 "Pakis" debunked  
+
+#### 🌐 Web Verification Tips
+- Search trending fact-checks on [Twitter](https://twitter.com/explore)
+- Check [Reuters Fact Check](https://www.reuters.com/fact-check/)
+- Verify images with [TinEye](https://www.tineye.com/)
+
 
 ## 📂 Dataset
 The dataset consists of two CSV files:
@@ -63,6 +92,19 @@ streamlit run app.py
 
 ---
 
+## 🔑 API Key Setup
+To use real-time fact-checking features, you'll need API keys from different sources. Here’s where to get them:
+- **News API** → [Get API Key](https://newsapi.org/)
+
+Ensure your API keys are stored securely and never hardcoded into your repository.
+
+**How to Secure API Keys?**
+- Store them in a `.env` or `secrets.toml` file.
+- Use environment variables in your code.
+- Never push API keys to GitHub.
+
+---
+
 ## 🚀 Deploy on GitHub
 
 ### 1️⃣ Initialize Git Repository
@@ -83,9 +125,8 @@ git push -u origin main
 
 ## 📸 Screenshots
 ![Fake News Detection UI](https://github.com/user-attachments/assets/a9b29ff9-4740-4e1e-9f5a-631068c9359b)
-)
-![True News Detection UI](https://github.com/user-attachments/assets/85b61a4d-d355-4f88-b83c-7cc25f45c55b)
 
+![True News Detection UI](https://github.com/user-attachments/assets/85b61a4d-d355-4f88-b83c-7cc25f45c55b)
 
 ---
 
