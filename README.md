@@ -116,11 +116,11 @@ git push -u origin main
 
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/e614b9c4-5de5-43af-9300-17432561cefd)
-![image](https://github.com/user-attachments/assets/99cbe5ca-1d3d-4654-b937-86ca3fbbdb78)
+
 
 
 ![image](https://github.com/user-attachments/assets/aa9cd518-0af5-4d28-a1a2-26d5a7ebb2a1)
-![image](https://github.com/user-attachments/assets/33609e46-1362-475b-9eea-9f84954e4417)
+
 
 
 
